@@ -1,5 +1,6 @@
  import java.util.Scanner;
 
+//Adds a new main function(Test)
 public class Grades {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
